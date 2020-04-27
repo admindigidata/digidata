@@ -3,7 +3,7 @@
   "palette": "purple",
   "header": {
     "title": "DigiData Ltd.",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/digidata-colour-logo.svg",
     "has_nav": true,
     "nav_links": [
       {
