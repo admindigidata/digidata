@@ -37,10 +37,6 @@
         "url": "/blog"
       },
       {
-        "label": "Sign Up",
-        "url": "signup"
-      },
-      {
         "label": "Contact",
         "url": "/contact"
       }
@@ -48,16 +44,6 @@
     "has_social": true,
     "social_title": "Community",
     "social_links": [
-      {
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "new_window": true
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
-        "new_window": true
-      },
       {
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/",
