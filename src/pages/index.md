@@ -7,7 +7,7 @@ sections:
   section_id: hero
   content: You can have data without information, but you cannot have information
     without data.
-  image: "/images/lamp-near-window-3551216.jpg"
+  image: "/images/photo-1502570149819-b2260483d302.jpg"
   actions:
   - label: Learn More
     url: "/features"
