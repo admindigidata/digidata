@@ -1,5 +1,5 @@
 {
-  "title": "Stackbit Azimuth Theme",
+  "title": "DigiData Ltd.",
   "palette": "purple",
   "header": {
     "title": "DigiData Ltd.",
@@ -31,7 +31,7 @@
   },
   "footer": {
     "logo_img": "images/logo_alt.png",
-    "tagline": "SaaS theme by Stackbit",
+    "tagline": "A Canadian data company",
     "has_nav": true,
     "nav_title": "Company",
     "nav_links": [
