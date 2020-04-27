@@ -5,8 +5,7 @@ sections:
   template: section_hero
   title: A Canadian Data Company
   section_id: hero
-  content: You can have data without information, but you cannot have information
-    without data.
+  content: Turn data into information and information into insight.
   image: "/images/photo-1502570149819-b2260483d302.jpg"
   actions:
   - label: Learn More
