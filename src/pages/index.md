@@ -4,7 +4,7 @@ sections:
 - template: section_content
   background: white
   type: section_content
-  content: ''
+  content: "![](/images/working-woman-technology-computer-7374.jpg)"
   title: ''
   section_id: ''
   image: "/images/working-woman-technology-computer-7374.jpg"
