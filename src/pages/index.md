@@ -1,20 +1,6 @@
 ---
 title: Home
 sections:
-- template: section_content
-  background: white
-  type: section_content
-  content: "![](/images/working-woman-technology-computer-7374.jpg)"
-  title: ''
-  section_id: ''
-  image: ''
-  actions: []
-- template: section_cta
-  type: section_cta
-  title: Turn data into information and information into insight
-  section_id: banner
-  subtitle: ''
-  actions: []
 - type: section_features
   template: section_features
   title: Projects
