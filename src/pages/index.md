@@ -52,6 +52,21 @@ sections:
   section_id: recent-posts
   background: gray
   subtitle: ''
+- template: section_content
+  background: gray
+  type: section_content
+  title: ''
+  section_id: ''
+  content: ''
+  image: ''
+  actions: []
+- template: section_contact
+  background: gray
+  type: section_contact
+  title: ''
+  section_id: ''
+  subtitle: ''
+  content: ''
 template: landing
 
 ---
