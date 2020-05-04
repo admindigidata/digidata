@@ -33,6 +33,13 @@ sections:
   section_id: Contact
   subtitle: ''
   content: ''
+- template: section_hero
+  type: section_hero
+  title: ddede
+  section_id: dwqdwd
+  content: dwqdqwdwdqwd
+  image: "/images/photo-1502570149819-b2260483d302.jpg"
+  actions: []
 template: landing
 
 ---
