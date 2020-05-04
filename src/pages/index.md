@@ -2,12 +2,12 @@
 title: Home
 sections:
 - template: section_content
-  background: gray
+  background: white
   type: section_content
-  content: "![](/images/photo-1511376777868-611b54f68947.jpg)"
+  content: ''
   title: ''
   section_id: ''
-  image: ''
+  image: "/images/working-woman-technology-computer-7374.jpg"
   actions: []
 - template: section_cta
   type: section_cta
