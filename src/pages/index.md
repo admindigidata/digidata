@@ -1,13 +1,20 @@
 ---
 title: Home
 sections:
-- template: section_contact
+- template: section_content
   background: gray
-  type: section_contact
-  title: Contact Us
-  section_id: Contact
+  type: section_content
+  content: "![](/images/photo-1511376777868-611b54f68947.jpg)"
+  title: ''
+  section_id: ''
+  image: ''
+  actions: []
+- template: section_cta
+  type: section_cta
+  title: A Canadian Company
+  section_id: ''
   subtitle: ''
-  content: ''
+  actions: []
 - template: section_hero
   type: section_hero
   title: ddede
@@ -40,14 +47,13 @@ sections:
       url: "/features"
       primary: false
       new_window: false
-- template: section_content
+- template: section_contact
   background: gray
-  type: section_content
-  content: "![](/images/photo-1511376777868-611b54f68947.jpg)"
-  title: ''
-  section_id: ''
-  image: ''
-  actions: []
+  type: section_contact
+  title: Contact Us
+  section_id: Contact
+  subtitle: ''
+  content: ''
 template: landing
 
 ---
