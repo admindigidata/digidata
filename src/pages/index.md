@@ -6,7 +6,7 @@ sections:
   title: ddede
   section_id: dwqdwd
   content: dwqdqwdwdqwd
-  image: "/images/photo-1502570149819-b2260483d302.jpg"
+  image: ''
   actions: []
 - template: section_content
   background: gray
