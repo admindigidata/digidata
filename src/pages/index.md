@@ -19,19 +19,10 @@ sections:
     url: "/contact"
     primary: true
     new_window: true
-- template: section_content
-  background: gray
-  type: section_content
-  title: A Canadian Data Company
-  section_id: intro
-  content: We turn data into information and information into insight.
-  image: ''
-  actions: []
 - type: section_features
   template: section_features
   title: Projects
   section_id: Projects
-  subtitle: Check it out what we've been busy working on.
   background: gray
   features:
   - title: Around.house
@@ -44,6 +35,7 @@ sections:
       url: "/features"
       primary: false
       new_window: false
+  subtitle: ''
 template: landing
 
 ---
