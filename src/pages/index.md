@@ -11,17 +11,14 @@ sections:
   actions: []
 - template: section_cta
   type: section_cta
-  title: A Canadian Company
-  section_id: ''
-  subtitle: ''
-  actions: []
-- template: section_hero
-  type: section_hero
-  title: ddede
-  section_id: dwqdwd
-  content: dwqdqwdwdqwd
-  image: ''
-  actions: []
+  title: A Canadian Data Company
+  section_id: banner
+  subtitle: Turn data into information and information into insight
+  actions:
+  - label: Contact
+    url: "/contact"
+    primary: true
+    new_window: true
 - template: section_content
   background: gray
   type: section_content
@@ -47,13 +44,6 @@ sections:
       url: "/features"
       primary: false
       new_window: false
-- template: section_contact
-  background: gray
-  type: section_contact
-  title: Contact Us
-  section_id: Contact
-  subtitle: ''
-  content: ''
 template: landing
 
 ---
