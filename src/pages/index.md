@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: section_features
   template: section_features
-  title: Projects
+  title: ''
   section_id: Projects
   background: gray
   features:
