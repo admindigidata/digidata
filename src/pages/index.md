@@ -1,6 +1,13 @@
 ---
 title: Home
 sections:
+- template: section_contact
+  background: gray
+  type: section_contact
+  title: Contact Us
+  section_id: Contact
+  subtitle: ''
+  content: ''
 - template: section_hero
   type: section_hero
   title: ddede
@@ -33,13 +40,6 @@ sections:
       url: "/features"
       primary: false
       new_window: false
-- template: section_contact
-  background: gray
-  type: section_contact
-  title: Contact Us
-  section_id: Contact
-  subtitle: ''
-  content: ''
 - template: section_content
   background: gray
   type: section_content
