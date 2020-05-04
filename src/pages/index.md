@@ -38,9 +38,9 @@ sections:
 - template: section_content
   background: gray
   type: section_content
-  title: ''
-  section_id: ''
-  content: ''
+  title: A Canadian Data Company
+  section_id: intro
+  content: We turn data into information and information into insight.
   image: ''
   actions: []
 - template: section_contact
