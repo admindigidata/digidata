@@ -7,7 +7,7 @@ sections:
   section_id: Projects
   background: gray
   features:
-  - title: Around.house
+  - title: Around.House
     content: 'Our vision of reimagine of the Canadian Real Estate market. A tool that
       we are building that will help millions Canadian home buyer and seller with
       real data and real facts. '
