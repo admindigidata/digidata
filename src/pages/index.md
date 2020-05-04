@@ -40,6 +40,14 @@ sections:
   section_id: Contact
   subtitle: ''
   content: ''
+- template: section_content
+  background: gray
+  type: section_content
+  content: "![](/images/photo-1511376777868-611b54f68947.jpg)"
+  title: ''
+  section_id: ''
+  image: ''
+  actions: []
 template: landing
 
 ---
