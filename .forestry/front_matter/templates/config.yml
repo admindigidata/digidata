@@ -15,12 +15,14 @@ fields:
   default: blue
   config:
     source:
-      type: custom
+      type: simple
     options:
     - blue
     - purple
     - green
     - orange
+  showOnly:
+    field: palette
 - type: field_group
   name: header
   label: Header Configuration
