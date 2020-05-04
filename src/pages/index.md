@@ -40,7 +40,7 @@ sections:
   type: section_content
   title: A Canadian Data Company
   section_id: intro
-  content: We turn data into information and information into insight.![](/images/CA-Canada-Flag-icon.png)
+  content: We turn data into information and information into insight.
   image: ''
   actions: []
 - template: section_contact
