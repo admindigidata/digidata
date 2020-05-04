@@ -11,14 +11,10 @@ sections:
   actions: []
 - template: section_cta
   type: section_cta
-  title: A Canadian Data Company
+  title: Turn data into information and information into insight
   section_id: banner
-  subtitle: Turn data into information and information into insight
-  actions:
-  - label: Contact
-    url: "/contact"
-    primary: true
-    new_window: true
+  subtitle: ''
+  actions: []
 - type: section_features
   template: section_features
   title: Projects
