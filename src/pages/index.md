@@ -7,7 +7,7 @@ sections:
   content: "![](/images/working-woman-technology-computer-7374.jpg)"
   title: ''
   section_id: ''
-  image: "/images/working-woman-technology-computer-7374.jpg"
+  image: ''
   actions: []
 - template: section_cta
   type: section_cta
