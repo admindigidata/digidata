@@ -2,9 +2,9 @@
   "title": "DigiData Ltd.",
   "palette": "blue",
   "header": {
-    "title": "DigiData Ltd.",
+    "title": "DigiData Global Ltd.",
     "logo_img": "/images/digidata-colour-logo.svg",
-    "has_nav": true,
+    "has_nav": false,
     "nav_links": [
       {
         "label": "Home",
