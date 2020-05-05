@@ -4,7 +4,7 @@
   "header": {
     "title": "DigiData Global Ltd.",
     "logo_img": "/images/digidata-colour-logo.svg",
-    "has_nav": false,
+    "has_nav": true,
     "nav_links": [
       {
         "label": "Home",
