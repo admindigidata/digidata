@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: Welcome, we are the three musketeers!
+subtitle: Meeting our team.
 image: images/about.jpg
 template: page
 
