@@ -7,11 +7,11 @@ sections:
   section_id: Projects
   background: gray
   features:
-  - title: Around.House
-    content: 'Our vision of reimagine of the Canadian Real Estate market. A tool that
-      we are building that will help millions Canadian home buyer and seller with
-      real data and real facts. '
-    image: images/feature1.png
+  - title: Schoolocate.ca
+    content: Our vision on how to search and present Canadian school zones. A modern
+      search tool that we built to help all the Canadian parents to locate all the
+      school zones based on their address.
+    image: "/images/schoolocate.png"
     actions:
     - label: Learn More
       url: "/features"
