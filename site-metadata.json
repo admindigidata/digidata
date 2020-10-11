@@ -7,12 +7,12 @@
     "has_nav": true,
     "nav_links": [
       {
-        "label": "About",
-        "url": "/about"
-      },
-      {
         "label": "Home",
         "url": "/"
+      },
+      {
+        "label": "About",
+        "url": "/about"
       },
       {
         "label": "Blog",
@@ -48,6 +48,11 @@
     "has_social": true,
     "social_title": "Community",
     "social_links": [
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/schoolocate_ca",
+        "new_window": true
+      },
       {
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/",
