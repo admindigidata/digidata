@@ -3,10 +3,10 @@ title: Features
 sections:
 - type: section_content
   template: section_content
-  title: Around.House
+  title: Schoolocate.ca
   section_id: features
-  content: Coming Soon 2020!
-  image: ''
+  content: ''
+  image: "/images/covid19.png"
   background: gray
   actions:
   - label: Free Trial
